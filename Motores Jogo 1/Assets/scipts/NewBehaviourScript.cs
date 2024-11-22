@@ -12,7 +12,7 @@ public class NewBehaviourScript : MonoBehaviour
     private AudioSource _audioSource;
     private string mensagemOriginal;
     public bool imprimindo;
-    public float tempoentreletras = 0.08f;
+    public float tempoentreletras = 0.0008f;
 
     private void Awake()
     {
